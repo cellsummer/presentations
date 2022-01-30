@@ -36,7 +36,7 @@ Step-by-step tutorial for creating online presentations
 ```html
 <div class="reveal">
 <div class="slides">
-  <section>
+  <section
     data-markdown='md-slides.md'
     data-separator="---\r\n"
     data-separator-vertical="\n\n\n"
