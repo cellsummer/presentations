@@ -4,7 +4,7 @@ Step-by-step tutorial for creating online presentations
 
 * Powered by [Reveal JS](https://revealjs.com/)
 * Using just Markdown for slides
-* Published to [ Github Pages ]( cellsummer.github.io/presentations )
+* Published to [ Github Pages ]( https://cellsummer.github.io/presentations )
 
 ---
 
