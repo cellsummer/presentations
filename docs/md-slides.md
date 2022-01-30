@@ -17,7 +17,10 @@ This is the last line
 ## Slide 2
 
 Try without any blank lines
----
+|||
 ## Slide 3
 
 End of slides
+
+^Notes: give some notes here
+
