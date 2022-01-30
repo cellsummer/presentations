@@ -11,12 +11,12 @@ This is the last line
 
 ### Subtitle 2
 
-
 ---
 
 ## Slide 2
 
 Try without any blank lines
+
 ------
 
 ## Slide 3
